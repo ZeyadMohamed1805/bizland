@@ -11,7 +11,20 @@ node_modules
 dist
 dist-ssr
 *.local
-components
+Hero
+Features
+About
+Skills
+Counts
+Clients
+Services
+Testimonials
+Portfolio
+Team
+Pricing
+FAQ
+Contact
+Footer
 extra.tsx
 extra.css
 

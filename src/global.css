@@ -34,11 +34,6 @@ body {
 .logo strong span {
   color:#00a6eb
 }
-@media (max-width:768px) {
-  .logo {
-    display:none
-  }
-}
 .preview-devices {
   margin-top:2px
 }
