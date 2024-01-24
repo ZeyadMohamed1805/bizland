@@ -34,7 +34,16 @@ const Header = () => {
         navbar?.classList.toggle('navbar-mobile');
         menu?.classList.toggle('bi-list');
         menu?.classList.toggle('bi-x');
-          
+    }
+
+    const onNavLinkClick = () =>
+    {
+        const menu = document.querySelector('#menu-icon');
+
+        if ( menu?.classList.contains( "bi-x" ) ) 
+        { 
+            onToggle(); 
+        } 
     }
 
     return (
@@ -48,27 +57,27 @@ const Header = () => {
                 <nav id="navbar" className="navbar navbar">
                     <ul>
                         <li>
-                            <a className="nav-link scrollto active" href="#hero">
+                            <a className="nav-link scrollto active" href="#hero" onClick={ onNavLinkClick }>
                                 Home
                             </a>
                         </li>
                         <li>
-                            <a className="nav-link scrollto" href="#about">
+                            <a className="nav-link scrollto" href="#about" onClick={ onNavLinkClick }>
                                 About
                             </a>
                         </li>
                         <li>
-                            <a className="nav-link scrollto" href="#services">
+                            <a className="nav-link scrollto" href="#services" onClick={ onNavLinkClick }>
                                 Services
                             </a>
                         </li>
                         <li>
-                            <a className="nav-link scrollto" href="#portfolio">
+                            <a className="nav-link scrollto" href="#portfolio" onClick={ onNavLinkClick }>
                                 Portfolio
                             </a>
                         </li>
                         <li>
-                            <a className="nav-link scrollto" href="#team">
+                            <a className="nav-link scrollto" href="#team" onClick={ onNavLinkClick }>
                                 Team
                             </a>
                         </li>
@@ -133,7 +142,7 @@ const Header = () => {
                             </ul>
                         </li>
                         <li>
-                            <a className="nav-link scrollto" href="#contact">
+                            <a className="nav-link scrollto" href="#contact" onClick={ onNavLinkClick }>
                                 Contact
                             </a>
                         </li>
