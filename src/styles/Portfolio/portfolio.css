@@ -1,4 +1,10 @@
 #portfolio .row .filter-app img 
 {
     margin-bottom: 30px;
+    transition: 0.3s;
+}
+
+#portfolio .row .filter-app img:hover
+{
+    transform: scale( 1.05 );
 }

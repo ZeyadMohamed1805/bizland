@@ -3,6 +3,7 @@
 }
 
 .team .member {
+    width: 100%;
     margin-bottom: 20px;
     overflow: hidden;
     border-radius: 4px;
@@ -13,6 +14,10 @@
 .team .member .member-img {
     position: relative;
     overflow: hidden;
+}
+
+.team .member .member-img img {
+    width: 100%;
 }
 
 .team .member .social {

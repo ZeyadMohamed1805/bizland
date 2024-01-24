@@ -5,6 +5,11 @@
   text-decoration: none !important;
 }
 
+*
+{
+  scroll-behavior: smooth;
+}
+
 body,
 html {
   height: 100%;
