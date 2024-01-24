@@ -3,6 +3,7 @@ import Hero from "./components/Hero/Hero";
 import Main from "./components/Main/Main";
 import Skills from "./components/Skills/Skills";
 import Counts from "./components/Counts/Counts";
+import Clients from "./components/Clients/Clients";
 
 const App = () => {
     return (
@@ -12,6 +13,7 @@ const App = () => {
             <Main />
             <Skills />
             <Counts />
+            <Clients />
         </>
     )
 }
