@@ -11,9 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-Footer
 extra.tsx
-extra.css
 
 # Editor directories and files
 .vscode/*
