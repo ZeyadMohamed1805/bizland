@@ -14,11 +14,11 @@ const Features = () => {
                             </div>
                             <h4 className="title">
                                 <a href="#">
-                                    Lorem Ipsum
+                                    UI/UX
                                 </a>
                             </h4>
                             <p className="description">
-                                Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi
+                                Our team seamlessly blend aesthetics and functionality, ensuring your digital products provide an exceptional user experience.
                             </p>
                         </div>
                     </div>
@@ -32,11 +32,11 @@ const Features = () => {
                             </div>
                             <h4 className="title">
                                 <a href="#">
-                                    Sed ut perspiciatis
+                                    Frontend
                                 </a>
                             </h4>
                             <p className="description">
-                                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+                                Our team are dedicated to crafting responsive, user-friendly interfaces that captivate your audience and elevate your online presence.
                             </p>
                         </div>
                     </div>
@@ -50,11 +50,11 @@ const Features = () => {
                             </div>
                             <h4 className="title">
                                 <a href="#">
-                                    Magni Dolores
+                                    Backend
                                 </a>
                             </h4>
                             <p className="description">
-                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                                Our team are committed to building robust, scalable, and secure server-side solutions that power seamless digital experiences for your users.
                             </p>
                         </div>
                     </div>
@@ -67,11 +67,11 @@ const Features = () => {
                             </div>
                             <h4 className="title">
                                 <a href="#">
-                                    Nemo Enim
+                                    Devops
                                 </a>
                             </h4>
                             <p className="description">
-                                At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+                                Our team are dedicated to optimizing your software delivery pipeline, enhancing scalability, and ensuring the reliability of your digital infrastructure.
                             </p>
                         </div>
                     </div>

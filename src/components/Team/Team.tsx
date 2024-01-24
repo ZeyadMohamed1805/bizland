@@ -19,7 +19,7 @@ const Team = () => {
                         </span>
                     </h3>
                     <p>
-                        Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.
+                        Our team are ready to provide you with the services you desire. Reach out to them whenever you need.
                     </p>
                 </div>
                 <div className="row">

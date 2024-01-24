@@ -14,7 +14,7 @@ const Contact = () => {
                         </span>
                     </h3>
                     <p>
-                        Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.
+                        Our dedicated team is ready to assist you. Contact us through any of the channels below, and let's start a conversation!
                     </p>
                 </div>
                 <div className="row aos-init" data-aos="fade-up" data-aos-delay="100">

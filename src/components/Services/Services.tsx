@@ -15,7 +15,7 @@ const Services = () => {
                         </span>
                     </h3>
                     <p>
-                        Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.
+                        Allow us to introduce you to the range of services that define our commitment to offer you what you wish for.
                     </p>
                 </div>
                 <div className="row">
@@ -28,11 +28,11 @@ const Services = () => {
                             </div>
                             <h4>
                                 <a href="#">
-                                    Lorem Ipsum
+                                    Website Development
                                 </a>
                             </h4>
                             <p>
-                                Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi
+                                Website development can range from simple static sites to dynamic, interactive platforms.
                             </p>
                         </div>
                     </div>
@@ -46,11 +46,11 @@ const Services = () => {
                             </div>
                             <h4>
                                 <a href="#">
-                                    Sed ut perspiciatis
+                                    Cloud Computing
                                 </a>
                             </h4>
                             <p>
-                                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+                                This involves deploying applications in the cloud, managing resources, and optimizing performance.
                             </p>
                         </div>
                     </div>
@@ -64,11 +64,11 @@ const Services = () => {
                             </div>
                             <h4>
                                 <a href="#">
-                                    Magni Dolores
+                                    API Integration
                                 </a>
                             </h4>
                             <p>
-                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                                This involves creating APIs for internal use or external consumption, ensuring interoperability and facilitating integrations with third-party services.
                             </p>
                         </div>
                     </div>
@@ -81,10 +81,12 @@ const Services = () => {
                             </div>
                             <h4>
                                 <a href="#">
-                                    Nemo Enim
+                                    Database Management
                                 </a>
                             </h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                            <p>
+                                This includes selecting appropriate database systems, creating database schemas, optimizing queries, and ensuring data security and integrity.
+                            </p>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 aos-init" data-aos="zoom-in" data-aos-delay="200">
@@ -97,11 +99,11 @@ const Services = () => {
                             </div>
                             <h4>
                                 <a href="#">
-                                    Dele cardo
+                                    Microservices Architecture
                                 </a>
                             </h4>
                             <p>
-                                Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur
+                                This provides the ability to develop, deploy, and scale individual components, fostering agility in software development.
                             </p>
                         </div>
                     </div>
@@ -114,11 +116,11 @@ const Services = () => {
                             </div>
                             <h4>
                                 <a href="#">
-                                    Divera don
+                                    Cyber Security
                                 </a>
                             </h4>
                             <p>
-                                Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur
+                                This service involves conducting code audits to identify vulnerabilities and security risks.
                             </p>
                         </div>
                     </div>

@@ -11,10 +11,10 @@ const Footer = () => {
                                 Join Our Newsletter
                             </h4>
                             <p>
-                                Tamen quem nulla quae legam multos aute sint culpa legam noster magna
+                                We're excited to share a curated collection of news, trends, and valuable content
                             </p>
-                            <form>
-                                <input type="email" name="email" />
+                            <form onSubmit={ ( event ) => event.preventDefault() }>
+                                <input type="email" name="email" required />
                                 <input type="submit" value="Subscribe" />
                             </form>
                         </div>
@@ -147,7 +147,7 @@ const Footer = () => {
                                 Our Social Networks
                             </h4>
                             <p>
-                                Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies
+                                Follow us on our social media platforms to recieve our latest updates.
                             </p>
                             <div className="social-links mt-3">
                                 <a href="#" className="twitter">

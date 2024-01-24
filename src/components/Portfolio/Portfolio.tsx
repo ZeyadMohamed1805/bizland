@@ -24,8 +24,7 @@ const Portfolio = () => {
                         </span>
                     </h3>
                     <p>
-                        Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.
-                    </p>
+                        Below is a collection of some of the products that we have created software applications to support and advertise.                    </p>
                 </div>
                 <div className="row">
                     <div className="d-none d-lg-block col-lg-4 filter-app">

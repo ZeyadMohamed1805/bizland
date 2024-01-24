@@ -15,7 +15,7 @@ const Pricing = () => {
                         </span>
                     </h3>
                     <p>
-                        Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.
+                        We are thrilled to present our pricing structure, designed to offer you not just products or services but a valuable investment in your success.
                     </p>
                 </div>
                 <div className="row">
@@ -35,19 +35,19 @@ const Pricing = () => {
                             </h4>
                             <ul>
                                 <li>
-                                    Aida dere
+                                    Priority 24/7 support.
                                 </li>
                                 <li>
-                                    Nec feugiat nisl
+                                    Regular performance reviews and optimizations.
                                 </li>
                                 <li>
-                                    Nulla at volutpat dola
+                                    Dedicated account manager and priority support.
                                 </li>
                                 <li className="na">
-                                    Pharetra massa
+                                    Advanced security measures and compliance adherence.
                                 </li>
                                 <li className="na">
-                                    Massa ultricies mi
+                                    Fully customizable access to development services.
                                 </li>
                             </ul>
                             <div className="btn-wrap">
@@ -73,19 +73,19 @@ const Pricing = () => {
                             </h4>
                             <ul>
                                 <li>
-                                    Aida dere
+                                    Priority 24/7 support.
                                 </li>
                                 <li>
-                                    Nec feugiat nisl
+                                    Regular performance reviews and optimizations.
                                 </li>
                                 <li>
-                                    Nulla at volutpat dola
+                                    Dedicated account manager and priority support.
                                 </li>
                                 <li>
-                                    Pharetra massa
+                                    Advanced security measures and compliance adherence.
                                 </li>
                                 <li className="na">
-                                    Massa ultricies mi
+                                    Fully customizable access to development services.
                                 </li>
                             </ul>
                             <div className="btn-wrap">
@@ -111,19 +111,19 @@ const Pricing = () => {
                             </h4>
                             <ul>
                                 <li>
-                                    Aida dere
+                                    Priority 24/7 support.
                                 </li>
                                 <li>
-                                    Nec feugiat nisl
+                                    Regular performance reviews and optimizations.
                                 </li>
                                 <li>
-                                    Nulla at volutpat dola
+                                    Dedicated account manager and priority support.
                                 </li>
                                 <li>
-                                    Pharetra massa
+                                    Advanced security measures and compliance adherence.
                                 </li>
                                 <li>
-                                    Massa ultricies mi
+                                    Fully customizable access to development services.
                                 </li>
                             </ul>
                             <div className="btn-wrap">
@@ -152,19 +152,19 @@ const Pricing = () => {
                             </h4>
                             <ul>
                                 <li>
-                                    Aida dere
+                                    Priority 24/7 support.
                                 </li>
                                 <li>
-                                    Nec feugiat nisl
+                                    Regular performance reviews and optimizations.
                                 </li>
                                 <li>
-                                    Nulla at volutpat dola
+                                    Dedicated account manager and priority support.
                                 </li>
                                 <li>
-                                    Pharetra massa
+                                    Advanced security measures and compliance adherence.
                                 </li>
                                 <li>
-                                    Massa ultricies mi
+                                    Fully customizable access to development services.
                                 </li>
                             </ul>
                             <div className="btn-wrap">

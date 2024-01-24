@@ -32,7 +32,7 @@ const Testimonials = () => {
                                 <div style={{ width: "80%" }}>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                     <span className="fst-italic">
-                                        Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                                        Responsible for steering the strategic direction, growth, and overall success of the company. Plays a pivotal role in shaping the company's vision, fostering a culture of innovation, and building and leading high-performing teams
                                     </span>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                 </div>
@@ -50,7 +50,7 @@ const Testimonials = () => {
                                 <div style={{ width: "80%" }}>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                     <span className="fst-italic">
-                                        Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                                        Whether working in graphic design, web design, industrial design, or other creative fields, Sara bring a unique blend of artistic flair and problem-solving skills to their work
                                     </span>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                 </div>
@@ -68,7 +68,7 @@ const Testimonials = () => {
                                 <div style={{ width: "80%" }}>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                     <span className="fst-italic">
-                                        Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                                        Owns and operates a retail establishment, overseeing all aspects of the business to ensure its success. Jena's role involves a combination of strategic planning, operational management, and customer service. 
                                     </span>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                 </div>
@@ -86,7 +86,7 @@ const Testimonials = () => {
                                 <div style={{ width: "80%" }}>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                     <span className="fst-italic">
-                                        Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                                        Offers his services on a project-by-project basis. Plays a vital role in the technology ecosystem, contributing to the development of diverse software solutions while enjoying the freedom and flexibility that freelance work offers.
                                     </span>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                 </div>
@@ -104,7 +104,7 @@ const Testimonials = () => {
                                 <div style={{ width: "80%" }}>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                     <span className="fst-italic">
-                                        Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                                        Combines a passion for technology with a strong entrepreneurial spirit to establish and lead innovative ventures in the IT sector. John  is driven by a vision to create, disrupt, and bring about positive change in the rapidly evolving landscape of technology.
                                     </span>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                 </div>

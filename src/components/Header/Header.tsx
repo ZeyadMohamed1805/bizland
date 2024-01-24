@@ -1,30 +1,6 @@
 import "../../styles/Header/header.css";
 
 const Header = () => {
-    
-    const onDropOne = ( event : React.MouseEvent<HTMLAnchorElement, MouseEvent> ) => 
-    {
-        const navbar = document.querySelector('#navbar');
-        const dropdown = document.querySelector("#dropdown-link");
-
-        if ( dropdown && navbar?.classList.contains('navbar-mobile') )
-        {
-            event.preventDefault();
-            dropdown?.nextElementSibling?.classList.toggle('dropdown-active');
-        }
-    }
-
-    const onDropTwo = ( event : React.MouseEvent<HTMLAnchorElement, MouseEvent> ) => 
-    {
-        const navbar = document.querySelector('#navbar');
-        const dropdown = document.querySelector("#dropdown-active-link");
-
-        if ( navbar?.classList.contains('navbar-mobile') ) 
-        {
-            event.preventDefault();
-            dropdown?.nextElementSibling?.classList.toggle('dropdown-active');
-        }
-    }
 
     const onToggle = () => 
     {
@@ -80,66 +56,6 @@ const Header = () => {
                             <a className="nav-link scrollto" href="#team" onClick={ onNavLinkClick }>
                                 Team
                             </a>
-                        </li>
-                        <li className="dropdown">
-                            <a id="dropdown-link" href="#" onClick={ ( event ) => onDropOne(event) }><span>Drop Down</span> <i className="bi bi-chevron-down"></i></a>
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        Drop Down 1
-                                    </a>
-                                </li>
-                                <li className="dropdown">
-                                    <a id="dropdown-active-link" href="#" onClick={ ( event ) => onDropTwo( event ) }>
-                                        <span>
-                                            Deep Drop Down
-                                        </span>
-                                        <i className="bi bi-chevron-right"></i>
-                                    </a>
-                                    <ul>
-                                        <li>
-                                            <a href="#">
-                                                Deep Drop Down 1
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                Deep Drop Down 2
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                Deep Drop Down 3
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                Deep Drop Down 4
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                Deep Drop Down 5
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        Drop Down 2
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        Drop Down 3
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        Drop Down 4
-                                    </a>
-                                </li>
-                            </ul>
                         </li>
                         <li>
                             <a className="nav-link scrollto" href="#contact" onClick={ onNavLinkClick }>
