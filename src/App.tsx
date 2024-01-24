@@ -6,6 +6,7 @@ import Counts from "./components/Counts/Counts";
 import Clients from "./components/Clients/Clients";
 import Services from "./components/Services/Services";
 import Testimonials from "./components/Testimonials/Testimonials";
+import Portfolio from "./components/Portfolio/Portfolio";
 
 const App = () => {
     return (
@@ -18,6 +19,7 @@ const App = () => {
             <Clients />
             <Services />
             <Testimonials />
+            <Portfolio />
         </>
     )
 }
