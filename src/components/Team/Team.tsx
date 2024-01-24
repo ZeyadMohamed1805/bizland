@@ -97,7 +97,7 @@ const Team = () => {
                             </div>
                             <div className="member-info">
                                 <h4>
-                                    Sarah Johnson
+                                    Larry Johnson
                                 </h4>
                                 <span>
                                     Product Manager
@@ -179,7 +179,7 @@ const Team = () => {
                             </div>
                             <div className="member-info">
                                 <h4>
-                                    Amanda Jepson
+                                    Steph Jepson
                                 </h4>
                                 <span>
                                     Accountant

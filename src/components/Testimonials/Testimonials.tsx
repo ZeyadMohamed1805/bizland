@@ -22,7 +22,7 @@ const Testimonials = () => {
                     <div className="carousel-inner">
                         <div className="carousel-item active">
                             <div className="d-flex flex-column align-items-center text-center text-white">
-                                <img src={ testimonials1image } className="rounded-circle border border-4" width="100px" alt="Testimonial 1" />
+                                <img src={ testimonials1image } className="rounded-circle border border-4" width="100px" height="100px" alt="Testimonial 1" />
                                 <h3 className="h3 fw-bold fs-5 mt-3">
                                     Saul Goodman
                                 </h3>
@@ -40,9 +40,9 @@ const Testimonials = () => {
                         </div>
                         <div className="carousel-item">
                             <div className="d-flex flex-column align-items-center text-center text-white">
-                                <img src={ testimonials2image } className="rounded-circle border border-4" width="100px" alt="Testimonial 2" />
+                                <img src={ testimonials2image } className="rounded-circle border border-4" width="100px" height="100px" alt="Testimonial 2" />
                                 <h3 className="h3 fw-bold fs-5 mt-3">
-                                    Sara Wilsson
+                                    Michael Wilsson
                                 </h3>
                                 <h4 className="h4 fw-semibold fs-6 mb-4">
                                     Designer
@@ -50,7 +50,7 @@ const Testimonials = () => {
                                 <div style={{ width: "80%" }}>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                     <span className="fst-italic">
-                                        Whether working in graphic design, web design, industrial design, or other creative fields, Sara bring a unique blend of artistic flair and problem-solving skills to their work
+                                        Whether working in graphic design, web design, industrial design, or other creative fields, Michael bring a unique blend of artistic flair and problem-solving skills to their work
                                     </span>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                 </div>
@@ -58,9 +58,9 @@ const Testimonials = () => {
                         </div>
                         <div className="carousel-item">
                             <div className="d-flex flex-column align-items-center text-center text-white">
-                                <img src={ testimonials3image } className="rounded-circle border border-4" width="100px" alt="Testimonial 3" />
+                                <img src={ testimonials3image } className="rounded-circle border border-4" width="100px" height="100px" alt="Testimonial 3" />
                                 <h3 className="h3 fw-bold fs-5 mt-3">
-                                    Jena Karlis
+                                    Andrew Karlis
                                 </h3>
                                 <h4 className="h4 fw-semibold fs-6 mb-4">
                                     Store Owner
@@ -68,7 +68,7 @@ const Testimonials = () => {
                                 <div style={{ width: "80%" }}>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                     <span className="fst-italic">
-                                        Owns and operates a retail establishment, overseeing all aspects of the business to ensure its success. Jena's role involves a combination of strategic planning, operational management, and customer service. 
+                                        Owns and operates a retail establishment, overseeing all aspects of the business to ensure its success. Andrew's role involves a combination of strategic planning, operational management, and customer service. 
                                     </span>
                                     <img src="../node_modules/bootstrap-icons/icons/quote.svg" width="26px" alt="Quote" />
                                 </div>
@@ -76,7 +76,7 @@ const Testimonials = () => {
                         </div>
                         <div className="carousel-item">
                             <div className="d-flex flex-column align-items-center text-center text-white">
-                                <img src={ testimonials4image } className="rounded-circle border border-4" width="100px" alt="Testimonial 4" />
+                                <img src={ testimonials4image } className="rounded-circle border border-4" width="100px" height="100px" alt="Testimonial 4" />
                                 <h3 className="h3 fw-bold fs-5 mt-3">
                                     Matt Brandon
                                 </h3>
@@ -94,7 +94,7 @@ const Testimonials = () => {
                         </div>
                         <div className="carousel-item">
                             <div className="d-flex flex-column align-items-center text-center text-white">
-                                <img src={ testimonials5image } className="rounded-circle border border-4" width="100px" alt="Testimonial 5" />
+                                <img src={ testimonials5image } className="rounded-circle border border-4" width="100px" height="100px" alt="Testimonial 5" />
                                 <h3 className="h3 fw-bold fs-5 mt-3">
                                     John Larson
                                 </h3>
