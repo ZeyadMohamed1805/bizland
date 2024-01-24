@@ -7,6 +7,7 @@ import Services from "../Services/Services";
 import Testimonials from "../Testimonials/Testimonials";
 import Portfolio from "../Portfolio/Portfolio";
 import Team from "../Team/Team";
+import Pricing from "../Pricing/Pricing";
 
 const Main = () => {
     return (
@@ -20,6 +21,7 @@ const Main = () => {
             <Testimonials />
             <Portfolio />
             <Team />
+            <Pricing />
         </main>
     )
 }
