@@ -9,6 +9,7 @@ import Portfolio from "../Portfolio/Portfolio";
 import Team from "../Team/Team";
 import Pricing from "../Pricing/Pricing";
 import FAQ from "../FAQ/FAQ";
+import Contact from "../Contact/Contact";
 
 const Main = () => {
     return (
@@ -24,6 +25,7 @@ const Main = () => {
             <Team />
             <Pricing />
             <FAQ />
+            <Contact />
         </main>
     )
 }
