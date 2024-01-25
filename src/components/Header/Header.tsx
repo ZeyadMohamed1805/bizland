@@ -33,7 +33,7 @@ const Header = () => {
                 <nav id="navbar" className="navbar navbar">
                     <ul>
                         <li>
-                            <a className="nav-link scrollto active" href="#hero" onClick={ onNavLinkClick }>
+                            <a className="nav-link scrollto" href="#hero" onClick={ onNavLinkClick }>
                                 Home
                             </a>
                         </li>
